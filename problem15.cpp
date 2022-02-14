@@ -38,5 +38,5 @@ std::string count_paths(int size)
 
 int main()
 {
-    std::cout << count_paths(7);
+    std::cout << count_paths(20);
 }
